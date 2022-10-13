@@ -1,0 +1,12 @@
+// Deploy Multivaria
+// 1 - Set URI
+// 2 - Set MultivariaMint as admin
+
+// Deploy MultivariaMint
+// 1 - Set Signer
+// 2 - Set Multivaria Address
+// 3 - Set Recipient
+// 4 - Activate / Deactivate Mints as needed
+
+
+// Create WL with Multivaria address
